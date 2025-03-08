@@ -11,10 +11,10 @@ npx expo start --android
 # Скріншоти:
 
 ## Головна:
-![Головна сторінка](assets\screenshots\screen3.jpg)
+![Головна сторінка](assets\screenshots\screen1.png)
 ## Галерея:
-![Галерея](assets\screenshots\screen1.jpg)
+![Галерея](assets\screenshots\screen2.png)
 ## Авторизація:
-![Авторизація](assets\screenshots\screen2.jpg)
+![Авторизація](assets\screenshots\screen3.png)
 
 
